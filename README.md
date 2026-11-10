@@ -46,8 +46,9 @@ The beta builds are not yet signed by Apple or Microsoft, so your device asks yo
 
 ### Mac
 1. Open the `.dmg` and drag **Nexy** to **Applications**.
-2. Right-click Nexy in Applications, choose **Open**, then **Open** again.
-3. If macOS still refuses, open **System Settings → Privacy & Security** and click **Open Anyway**.
+2. Open Nexy. macOS says *"Nexy" Not Opened: Apple could not verify…*. Click **Done**.
+3. Open **System Settings → Privacy & Security**, scroll down to *"Nexy" was blocked*, click **Open Anyway** and enter your password.
+4. Nexy opens. You only do this once; updates install from inside the app.
 
 ### Windows
 1. Run `Nexy_<version>_windows-x64-setup.exe`.
